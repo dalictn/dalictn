@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
-    <a href="//https://dalictn.neocities.org">me</a> .
-    <a href="//https://dev.to/katzdev">Dev.to</a> .
+    <a href="https://dalictn.neocities.org">me</a> .
+    <a href="https://dev.to/katzdev">Dev.to</a> .
     <a href="https://github.com/dalictn?tab=repositories">projects</a> .
     <a href="https://leetcode.com/u/katzdev/">leetcode</a>
   </samp>
