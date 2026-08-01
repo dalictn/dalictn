@@ -1,15 +1,14 @@
 <p align="center">
   <samp>
-    <a href="//https://ludkadev.space/">me</a> .
+    <a href="//https://dalictn.neocities.org">me</a> .
     <a href="//https://dev.to/katzdev">Dev.to</a> .
-    <a href="https://github.com/dalictn?tab=repositories">projects</a> 
+    <a href="https://github.com/dalictn?tab=repositories">projects</a> .
+    <a href="https://leetcode.com/u/katzdev/">leetcode</a>
   </samp>
 </p>
 
 #### Interested in:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Robotics/;/Software+Development/;/FOSS+Software/;/Server+building/;/Networking/;/PC+building/;/Cyber+Security/)
-
-### Aspiring Software Development Engineer, currently a student
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Robotics/;/Software+Development/;/FOSS+Software/;/Server+building/;/Networking/;/Cyber+Security/)
 
 ## Contact me on:
 
@@ -24,4 +23,7 @@ https://t.me/dalictn
 ### Matrix:
 
 @dalictn:matrix.org
+
+### Email:
+mailto:frv8rpqq4v@privaterelay.appleid.com
 
